@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -std=c++14 -g  -rdynamic CMakeFiles/Factorial.dir/src/Main.cpp.o  -o Factorial 
